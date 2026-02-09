@@ -6,8 +6,10 @@ O programa pede o nome do usuário, dá as boas-vindas e gera 6 números aleató
 
 # Exemplo de uso
 
-Digite seu nome: Kauã
+Digite seu nome: Kauã.
+
 Olá, Kauã
+
 Números sorteados:
 12
 45
